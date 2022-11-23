@@ -1,0 +1,9 @@
+a:hover {
+  text-decoration: none;
+}
+a.btn {
+  margin: 5px;
+}
+.pop {
+  color: rgba(245, 255, 245, 1);
+}
