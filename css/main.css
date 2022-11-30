@@ -1,5 +1,9 @@
+a {
+ color: #17B06B; 
+}
 a:hover {
   text-decoration: none;
+  color: rgba(245, 255, 245, 1);
 }
 a.btn {
   margin: 5px;
